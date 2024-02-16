@@ -4,6 +4,6 @@
 
 - Oynatma, duraklatma, atlama, karıştırma ve tekrarlama gibi temel işlevlere sahiptir. 
 
-## Gif
+## İmg
 
-<img src="mp3-player-v g.mp4"/>
+<img src="mp3.player.img.png"/>
